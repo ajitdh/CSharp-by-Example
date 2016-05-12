@@ -43,3 +43,4 @@
 References
 - http://dot-net-belgium.blogspot.be/2013/04/things-to-know-about-c.html
 - http://www.codeproject.com/Articles/1094079/An-advanced-introduction-to-Csharp-Lecture-Notes-P#control-flow
+- http://www.amazon.com/C-6-0-NET-4-6-Framework/dp/1484213335/ref=sr_1_1/187-6358773-2224560?s=books&ie=UTF8&qid=1463044978&sr=1-1
