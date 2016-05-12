@@ -1,4 +1,45 @@
 # CSharp-by-Example
 - Hello World!
-- Data Types in C#
-- Language Integrated Query (LINQ)
+- Namespaces
+- Data types and operators
+- Reference and value types
+- Control flow
+- Object-oriented programming
+- Inheritance and polymorphism
+- Access modifiers
+- Properties
+- The constructor
+- Abstract classes and interfaces
+- Exception handling
+- Enumerations
+- Delegates
+- Auto-generated properties
+- Generic types
+- Generic methods
+- Constraints
+- Lambda expressions
+- Anonymous objects & inferring types
+- Extension methods
+- LINQ
+- The .NET standard event pattern
+- Reflection
+- Dynamic Types
+- Accessing the file system
+- Streams
+- Threads
+- Thread-communication
+- The Task Parallel Library
+- Tasks and threads
+- Awaiting async methods
+- Overloading operators
+- The yield statement
+- Iterators
+- Understanding co- and contra-variance
+- Using attributes effectively
+- Unsafe code
+- Communication between native and managed code
+- Effective C#
+
+References
+- http://dot-net-belgium.blogspot.be/2013/04/things-to-know-about-c.html
+- http://www.codeproject.com/Articles/1094079/An-advanced-introduction-to-Csharp-Lecture-Notes-P#control-flow
