@@ -1,2 +1,4 @@
 # CSharp-by-Example
-CSharp by Example
+- Hello World!
+- Data Types in C#
+- Language Integrated Query (LINQ)
